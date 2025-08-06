@@ -25,10 +25,13 @@ I'm a final-year engineering student passionate about building **AI-powered syst
   - 📈 Predicts health scores and crop yield  
   - ⚙️ Trained on large CSV datasets with XGBoost
 
-- **🎭 Multimodal Emotion Detector**  
-  Detects human emotions using multiple physiological signals.  
-  - 🧬 Combines pulse, temperature, and other inputs  
-  - 🧠 Real-time emotion prediction using ML
+- 🌡️ Multimodal Emotion Recognition**  
+  A real-time system for emotion detection using physiological and behavioral data.  
+  - 💓 Inputs: Heart rate, SpO₂, temperature, facial expression, voice  
+  - 🧠 ML models: CNN, LSTM, and Random Forest  
+  - 🔀 Fusion-based decision making (83.95% accuracy)  
+  - 📊 Real-time dashboard built with React.js + Firebase  
+  - 👵 Use case: Elderly emotion monitoring assistant
 
 - **🚗 Smart Parking App**  
   A React Native app that displays real-time parking locations using Google Maps.  
