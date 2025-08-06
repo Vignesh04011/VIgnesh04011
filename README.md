@@ -91,7 +91,7 @@ HTML/CSS (basic)
 
   - Chart.js, Plotly, React-chartjs-2
 
-HTML/CSS (basic for landing pages)
+  - HTML/CSS (basic for landing pages)
 
 **🔧 Utilities & Tools**
   - Git, GitHub, Postman
