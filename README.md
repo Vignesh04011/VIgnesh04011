@@ -46,14 +46,42 @@ I'm a final-year engineering student passionate about building **AI-powered syst
 
 ---
 
-### 🛠 Tech Stack
+🧑‍💻 Languages
+Python, JavaScript (React/Node), PHP
+HTML/CSS (basic)
 
-- **Languages:** Python, JavaScript, PHP  
-- **AI/ML Tools:** Scikit-learn, XGBoost, PyTorch (basic), OpenCV  
-- **Big Data:** Hadoop, PySpark, MLlib  
-- **Mobile Dev:** React Native (CLI), Firebase  
-- **Backend:** Flask, XAMPP  
-- **Utilities:** Git, Postman, AsyncStorage, Streamlit, WSL
+🤖 AI/ML & Data Science
+Scikit-learn, XGBoost, Random Forest, LSTM, CNN
+PyTorch (basic), TensorFlow (basic), Pandas, NumPy
+OpenCV, Librosa, Matplotlib, Seaborn
+Feature Engineering, Hyperparameter Tuning
+R², MSE, MAE, Accuracy, F1-Score metrics
+
+📦 Big Data & Distributed Systems
+Apache Hadoop (MapReduce – Python)
+Apache Spark (PySpark, MLlib)
+WSL for simulating distributed environments
+
+📱 Mobile App Development
+React Native (Community CLI)
+React Navigation (Stack/Tab), Context API
+LottieView, LinearGradient, AsyncStorage
+Razorpay Integration, Image Picker
+
+☁️ Cloud & Backend
+Flask (Python REST APIs), XAMPP (PHP-MySQL)
+Firebase (Auth, Firestore, Realtime DB, JS SDK)
+
+🖥️ Frontend & Dashboard
+Streamlit (ML dashboards)
+React.js (Firebase-integrated UI)
+Chart.js, Plotly, React-chartjs-2
+HTML/CSS (basic for landing pages)
+
+🔧 Utilities & Tools
+Git, GitHub, Hugging Face
+Jupyter, VS Code, 
+Google Colab (for training/testing models)
 
 ---
 
