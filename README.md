@@ -20,10 +20,13 @@ I'm a final-year engineering student passionate about building **AI-powered syst
   - 📉 Streamlit dashboard for visual insights  
   - 🛠️ Runs on WSL with distributed simulation setup
 
-- **🌾 SimAgroBots**  
-  ML-based crop simulation and yield prediction without IoT hardware.  
-  - 📈 Predicts health scores and crop yield  
-  - ⚙️ Trained on large CSV datasets with XGBoost
+- **🌾 SimAgro: Smart Crop Health & Yield Predictor**  
+  AI-based simulation tool to estimate crop yield and health without IoT hardware.  
+  - ✅ Predicts health score & yield in tons/hectare  
+  - 📊 Visualizes stage-wise trends & simulation  
+  - 🤖 Uses 15+ agro-environmental variables  
+  - 📂 CSV download + real-time advisor recommendations  
+  - 🔧 Tech: Streamlit, XGBoost, Random Forest
 
 - 🌡️ Multimodal Emotion Recognition**  
   A real-time system for emotion detection using physiological and behavioral data.  
@@ -33,10 +36,13 @@ I'm a final-year engineering student passionate about building **AI-powered syst
   - 📊 Real-time dashboard built with React.js + Firebase  
   - 👵 Use case: Elderly emotion monitoring assistant
 
-- **🚗 Smart Parking App**  
-  A React Native app that displays real-time parking locations using Google Maps.  
-  - 📍 User location + custom markers  
-  - ☁️ Firebase backend for data storage
+- **🚗 Smart Car Parking App**  
+  Cross-platform mobile app to simplify city parking.  
+  - 📍 Real-time slot booking & navigation  
+  - 💳 Digital wallet with Razorpay integration  
+  - 🔒 Firebase Auth + AsyncStorage session handling  
+  - 🖼️ UI with Lottie animations, LinearGradient themes  
+  - 🔧 Stack: React Native (CLI), Firebase, Razorpay
 
 ---
 
