@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vignesh Vane</h1>
-<h3 align="center">AI & Full Stack Developer | IoT Enthusiast | Machine Learning Explorer</h3>
+<h3 align="center">Full Stack Developer & Machine Learning Explorer</h3>
 
 ---
 
