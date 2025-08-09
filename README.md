@@ -5,9 +5,9 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-<a href="mailto:vigneshvane200@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
+<a href="mailto:vvwork04@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
 <a href="https://github.com/Vignesh04011"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/vignesh-vane/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/vignesh-vane-1423a2378/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
