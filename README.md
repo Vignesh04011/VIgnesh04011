@@ -49,7 +49,7 @@ IoT + AI system detecting emotions using SpO2, temperature, heart rate, facial r
 
 ---
 
-### 4️⃣ [Smart CarPark App](#)
+### 4️⃣ [Smart CarPark App - Geo-Enabled Real-Time Parking Reservation Platform](#)
 Mobile app for real-time parking slot booking with wallet payments, live tracking, and navigation support.  
 **Tech Stack:** React Native, Firebase, Google Maps API, Razorpay, AsyncStorage
 
