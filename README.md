@@ -55,7 +55,7 @@ Mobile app for real-time parking slot booking with wallet payments, live trackin
 
 ---
 
-### 5️⃣ [AI Answer Evaluator](#)
+### 5️⃣ [AI Answer Evaluator -A Hybrid OCR and Deep Learning Framework for Intelligent Answer Sheet Evaluation](#)
 AI-powered system for automated answer sheet evaluation using OCR, YOLO, and LLMs for semantic scoring and instant feedback.  
 **Tech Stack:** React Native, Python, Flask, YOLO, OCR, Firebase, LLM
 
